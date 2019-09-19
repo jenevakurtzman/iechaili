@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://rahsokeina.welltimedfunny.com/sitemap.xml
